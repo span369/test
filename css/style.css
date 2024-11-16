@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+}
+.wrapper {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    border: 1px solid tomato;
+}
+
+.main-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: center;
+    color: red;
+    outline: 1px solid blue;
+}
